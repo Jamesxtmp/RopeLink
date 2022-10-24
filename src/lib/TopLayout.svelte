@@ -1,6 +1,5 @@
 <script>
     import TopBar from "./topTools/TopBar.svelte"
-    // @ts-ignore
     import LayoutStorageApp from "./storageApp/LayoutStorageApp.svelte";
     import Navbar from "./topTools/Navbar.svelte";
 </script>
