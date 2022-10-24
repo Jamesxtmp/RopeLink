@@ -1,0 +1,20 @@
+:root{
+    --primaryColor: #4800f0ad;
+    --background: #222222;
+    --fontColor: #eeeeee;
+}
+@font-face {
+    font-family: Gordita;
+    src: url("./fonts/GorditaRegular.otf") format("truetype");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--fontColor);
+    font-family: Gordita;
+    user-select: none;
+}
+body{
+    background-color: var(--background);
+}
