@@ -10,7 +10,7 @@
     <Navbar />
 </div>
 <style>
-    /* .topLayout{
+    .topLayout{
         position: relative;
-    } */
+    }
 </style>
